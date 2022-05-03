@@ -28,13 +28,13 @@ Modelar 6 versiones de Mona The Octocat que extienden de la clase Octocat, pero 
 ## PracticaMultiverse (Interfaces)
 Modelado de 3 personajes del Spiderverse.
 
-## Nota:
 Al ejecutarse el programa nos muestra la información de un personaje y la descripción de uno de sus superpoderes, mediante el uso de join le daremos un tiempo a cada hilo para que muestre todos los datos de un solo personaje a la vez y terminado el tiempo continue con el siguente.
 
+## Nota:
 Para esta práctica se utilizo el framework inmosh, el cual es de uso restringido para LaunchX por lo que no esta incluido el archivo en este repositorio.
 Para hacer uso de este, se añadieron los archivos del framework en un paquete nombrado imonsh debido a que el paquete fue creado por default.
 
-Este programa requiere varias imagenes contenidas en una carpeta llamada "assets" que se encuentra en el paquete del proyecto, dicha carpeta no esta incluida por temas de derechos de autor. 
+Este programa requiere varias imagenes contenidas en una carpeta llamada "assets" que se encuentra en el paquete del proyecto, dicha carpeta no esta incluida en el repositorio por temas de derechos de autor. 
 
 ## Diagrama
 
@@ -44,4 +44,23 @@ Este programa requiere varias imagenes contenidas en una carpeta llamada "assets
 ## Programa ejecutado
 
 ![InterfaceGraf-SpiderVerse](https://user-images.githubusercontent.com/99112892/166399859-f93afd56-2cf4-44e7-a570-6168f6c149ab.gif)
+
+
+
+## PracticaComic (Hilos)
+Crear un cómic modelando las clases, interfaces e hilos correspondientes para contar una historia de 2 minutos de duración.
+
+## Nota:
+Para esta práctica se utilizo el framework inmosh, el cual es de uso restringido para LaunchX por lo que no esta incluido el archivo en este repositorio.
+Para hacer uso de este, se añadieron los archivos del framework en un paquete nombrado imonsh debido a que el paquete fue creado por default.
+
+Este programa requiere varias imagenes contenidas en una carpeta llamada "assetsComic" que se encuentra en el paquete del proyecto, dicha carpeta no esta incluida en el repositorio por temas de derechos de autor. 
+
+## Diagrama
+![diagramaCapturaCon](https://user-images.githubusercontent.com/99112892/166400392-32e583fd-0fc4-4a30-bf96-47dbd1492441.png)
+
+## Programa ejecutado
+
+![InterfaceGraf-Comic](https://user-images.githubusercontent.com/99112892/166400452-697ab8b0-2cb0-4383-b23f-66c2d9b7128a.gif)
+
 
