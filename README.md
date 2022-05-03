@@ -1,6 +1,6 @@
 # BackendJava
 
-## PracticaHarry
+## PracticaHarry (Modelado)
 Modelado de 5 personajes del universo Harry Potter. Los objotos se definen utiliando las 2 formas: constructor o por setters y getters.
 
 ## Diagrama
@@ -10,7 +10,8 @@ Modelado de 5 personajes del universo Harry Potter. Los objotos se definen utili
 ![practicaHarry-Resultado](https://user-images.githubusercontent.com/99112892/166394412-bf7a1b33-08e9-41a1-a9c9-fefc2fb674d1.png)
 
 
-## PracticaMona
+
+## PracticaMona (Herencia y Polimorfismo)
 Modelar 6 versiones de Mona The Octocat que extienden de la clase Octocat, pero a manera de demostrar que se tienen mas alternativas se modelo las clases para 4 octagatos que extienden de la clase Octocat y cada una con su instancia en el PSVM, mientras las otras 2 se crean en Main usanto instancias de la base OCtocat.
 
 ## Personajes
@@ -23,4 +24,24 @@ Modelar 6 versiones de Mona The Octocat que extienden de la clase Octocat, pero 
 ![practicaMona-Resultado](https://user-images.githubusercontent.com/99112892/166395679-bdd959b8-7a77-45ef-a915-83d4154e3512.png)
 
 
+
+## PracticaMultiverse (Interfaces)
+Modelado de 3 personajes del Spiderverse.
+
+## Nota:
+Al ejecutarse el programa nos muestra la información de un personaje y la descripción de uno de sus superpoderes, mediante el uso de join le daremos un tiempo a cada hilo para que muestre todos los datos de un solo personaje a la vez y terminado el tiempo continue con el siguente.
+
+Para esta práctica se utilizo el framework inmosh, el cual es de uso restringido para LaunchX por lo que no esta incluido el archivo en este repositorio.
+Para hacer uso de este, se añadieron los archivos del framework en un paquete nombrado imonsh debido a que el paquete fue creado por default.
+
+Este programa requiere varias imagenes contenidas en una carpeta llamada "assets" que se encuentra en el paquete del proyecto, dicha carpeta no esta incluida por temas de derechos de autor. 
+
+## Diagrama
+
+[practicaMultiverse-Diagrama.pdf](https://github.com/RodolfoMorquecho/BackendJava/files/8608079/practicaMultiverse-Diagrama.pdf)
+
+
+## Programa ejecutado
+
+![InterfaceGraf-SpiderVerse](https://user-images.githubusercontent.com/99112892/166399859-f93afd56-2cf4-44e7-a570-6168f6c149ab.gif)
 
