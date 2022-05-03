@@ -29,12 +29,17 @@ Modelar 6 versiones de Mona The Octocat que extienden de la clase Octocat, pero 
 ![practicaMona-Resultado](https://user-images.githubusercontent.com/99112892/166395679-bdd959b8-7a77-45ef-a915-83d4154e3512.png)
 
 ## Clases
-[Constructocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Constructocat.java)
-[Grinchtocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Grinchtocat.java)
-[Octocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Octocat.java)
-[Plumbercat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Plumbercat.java)
-[Sentrytocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Sentrytocat.java)
-[TestOctocats](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/TestOctacats.java)
+-[Constructocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Constructocat.java)
+
+-[Grinchtocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Grinchtocat.java)
+
+-[Octocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Octocat.java)
+
+-[Plumbercat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Plumbercat.java)
+
+-[Sentrytocat](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/Sentrytocat.java)
+
+-[TestOctocats](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMona/TestOctacats.java)
 
 ## PracticaMultiverse (Interfaces)
 Modelado de 3 personajes del Spiderverse.
