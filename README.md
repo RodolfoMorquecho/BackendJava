@@ -10,8 +10,8 @@ Modelado de 5 personajes del universo Harry Potter. Los objotos se definen utili
 ![practicaHarry-Resultado](https://user-images.githubusercontent.com/99112892/166394412-bf7a1b33-08e9-41a1-a9c9-fefc2fb674d1.png)
 
 ## Clases
-[Pesonaje](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaHarry/Personaje.java),
-[camaraSecreta](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaHarry/camaraSecreta.java)
+-[Pesonaje](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaHarry/Personaje.java)
+-[camaraSecreta](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaHarry/camaraSecreta.java)
 
 
 
