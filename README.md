@@ -78,7 +78,7 @@ Este programa requiere varias imagenes contenidas en una carpeta llamada "assets
 
 [MiguelHabilidades](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/MiguelHabilidades.java)
 
-[Spiderverse](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/SpiderVerse.java)
+[SpiderVerse](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/SpiderVerse.java)
 
 
 ## PracticaComic (Hilos)
