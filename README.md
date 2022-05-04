@@ -61,6 +61,24 @@ Este programa requiere varias imagenes contenidas en una carpeta llamada "assets
 
 ![InterfaceGraf-SpiderVerse](https://user-images.githubusercontent.com/99112892/166399859-f93afd56-2cf4-44e7-a570-6168f6c149ab.gif)
 
+## Clases-Interfaces
+
+
+[Spiderman](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/Spiderman.java)
+
+[AnyaCorazon](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/AnyaCorazon.java)
+
+[AnyaHabilidades](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/AnyaHabilidades.java)
+
+[CindyMonn](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/CindyMoon.java)
+
+[CindyHabilidades](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/CindyHabilidades.java)
+
+[MiguelOhara](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/MiguelOhara.java)
+
+[MiguelHabilidades](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/MiguelHabilidades.java)
+
+[Spiderverse](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaMultiverse/SpiderVerse.java)
 
 
 ## PracticaComic (Hilos)
