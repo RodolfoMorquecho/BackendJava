@@ -97,4 +97,14 @@ Este programa requiere varias imagenes contenidas en una carpeta llamada "assets
 
 ![InterfaceGraf-Comic](https://user-images.githubusercontent.com/99112892/166400452-697ab8b0-2cb0-4383-b23f-66c2d9b7128a.gif)
 
+## Clases-Interfaces
+
+[Comic](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaComic/Comic.java)
+
+[PaginasAlgoritmo](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaComic/PaginasAlgoritmo.java)
+
+[TextoDistribucion](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaComic/TextoDistribucion.java)
+
+[TextoHistorieta](https://github.com/RodolfoMorquecho/BackendJava/blob/main/practicaComic/TextoHistorieta.java)
+
 
